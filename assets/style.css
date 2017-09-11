@@ -1,0 +1,28 @@
+body{
+	background-color: lightgreen;
+}
+.container {
+	text-align: center;
+}
+.box ul {
+	display: inline-block;
+}
+.container .box:first-child h1{
+	color: blue;
+} 
+.container .box:nth-child(2) h1{
+	color: blue;
+}
+.box ul{
+	display: inline-block;
+}
+.container .box ul li {
+	font-size: 25px;
+}
+.container p{
+	font-size: 18px;
+	font-weight: 500;
+}
+.image-box img{
+	height: 500px;
+}
