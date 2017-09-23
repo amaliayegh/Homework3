@@ -11,7 +11,7 @@ const func = function(x, y, z){
 //2
 const func2 = function () {
 	return (1) 
-}; 
+};
 
 //3
 const func3 = function (num1, num2) {
